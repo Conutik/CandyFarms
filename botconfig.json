@@ -1,6 +1,6 @@
 {
  "nodes": [
-    { "host": "149.56.76.120", "port": 2333, "password": "youshallnotpass" }
+    { "host": "no", "port": 2333, "password": "youshallnotpass" }
     ],
   "prefix": ".",
   "m": {
@@ -10,5 +10,5 @@
     "owner": "255327008576241674"
   },
   "ownerid": "255327008576241674",
-  "token": "NjUxODc4ODE2ODM4NDUxMjQw.Xs9-eg.Fg-Dj1J1sxmcVWvBb03HtKtZfrg"
+  "token": "no"
 }
